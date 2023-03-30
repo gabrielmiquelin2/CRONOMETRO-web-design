@@ -1,5 +1,5 @@
 # CRONOMETRO-web-design
-<h3>Descrição do projeto:</h3>
+<h2>Descrição do projeto:</h2>
 
 O código é um cronômetro implementado com JavaScript e HTML.
 
@@ -19,7 +19,7 @@ A função de formatação de tempo converte milissegundos em um formato fácil 
 
 O código pode ser otimizado e melhorado, mas é uma implementação simples e funcional de um cronômetro.
 
-Acesse o link e teste o projeto:
+<h2>Acesse o link e teste o projeto:</h2>
 
-Para desenvolver esse projeto eu utilizei: HTML5 e JAVASCIRPT
+<h2>Para desenvolver esse projeto eu utilizei: HTML5 e JAVASCIRPT</h2>
 
