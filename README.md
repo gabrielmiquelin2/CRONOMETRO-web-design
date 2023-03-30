@@ -1,5 +1,5 @@
 # CRONOMETRO-web-design
-Descrição do projeto:
+<h3>Descrição do projeto:</h3>
 
 O código é um cronômetro implementado com JavaScript e HTML.
 
